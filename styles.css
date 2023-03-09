@@ -1,0 +1,14 @@
+.tabla-contenedor {
+    display: flex;
+}
+
+.datos-modelo,
+.coste-fabricacion {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#myChart {
+    max-width: 500px;
+    max-height: 400px;
+}
